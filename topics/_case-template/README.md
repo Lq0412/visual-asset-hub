@@ -1,6 +1,8 @@
 # Case NNN — <短描述>
 
 > 主题：transition
+> 所属期：01
+> 转场类型：物体遮挡 / 滑动 / Match Cut ...
 > 状态：进行中 / 已完成
 > 最终采用：`outputs/selected/`（文件不入库，引用地址见下）
 
