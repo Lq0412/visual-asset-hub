@@ -1,0 +1,23 @@
+# 编辑器 / 系统文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 视频与归档文件不入库（原文件放本地 / 对象存储，仓库只记引用）
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.flv
+*.zip
+*.rar
+*.7z
+
+# 大体积 / 中间格式图片
+*.psd
+*.tif
+*.tiff
+*.raw
