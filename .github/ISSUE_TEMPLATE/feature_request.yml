@@ -1,0 +1,15 @@
+name: 想法 / 新主题
+description: 记录新主题、素材缺口或流程改进的想法
+title: "idea: "
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: 想法描述
+      description: 想沉淀什么主题、需要什么资产，或想改进哪条规则。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 背景与备注
+      description: 触发场景、参考链接或相关 Case / 资产；没有可不填。
