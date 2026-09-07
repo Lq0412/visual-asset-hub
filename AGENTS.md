@@ -5,6 +5,7 @@
 ## 开始
 
 - 先读 `README.md`（定位与目录）、`ASSETS_INDEX.md`（资产命名规范源）、`CONTRIBUTING.md`（协作与入库流程）。
+- 项目方向与当前阶段见 `ROADMAP.md`。
 - 检查 `git status` 与已有 diff，保留用户未提交的修改。
 
 ## 内容去向
