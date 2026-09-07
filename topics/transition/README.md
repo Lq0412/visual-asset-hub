@@ -6,11 +6,10 @@
 
 ```text
 topics/transition/
-├── README.md                  # 本页：案例 / 期索引
-├── 001-phone-object-cover/    # 第 01 期的 Case
-├── 002-hand-wipe/             # 第 01 期的另一个 Case
-└── 003-liquid-lens/           # 第 02 期
+└── README.md                  # 本页：案例 / 期索引（Case 创建后在此追加）
 ```
+
+暂无已创建的 Case。首期案例从 `assets/references/video_links.txt` 的「转场类」链接中选定后，按下方约定创建。
 
 ## Case 索引
 
@@ -24,4 +23,4 @@ topics/transition/
 - 在 Case README 头部填写「所属期 / 转场类型 / 状态」；同一期的多个 Case 共享同一个期号
 - 每新增或更新一个 Case，都同步更新上方索引表
 - 每个 Case 的 README 记录完整实验过程，失败版本保留
-- 视频 / 大图不入库，见仓库根目录 `.gitignore`
+- 视频不入库（图片可入库），见仓库根目录 `.gitignore`
